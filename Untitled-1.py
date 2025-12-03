@@ -1,1 +1,0 @@
-print("Python VS Code'da calisiyor!")
