@@ -56,6 +56,7 @@ ENV/
 # ----------------------------------------
 .vscode/
 .code-workspace
+*.code-workspace
 
 # JetBrains (PyCharm, etc.)
 .idea/
