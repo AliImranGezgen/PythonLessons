@@ -1,1 +1,86 @@
+# ----------------------------------------
+# PYTHON BYTECODE & CACHE FILES
+# ----------------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
+# C extensions
+*.so
+
+# ----------------------------------------
+# DISTRIBUTION / PACKAGING FILES
+# ----------------------------------------
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.eggs/
+*.egg
+
+# PyInstaller
+# Typically creates folders like dist/, build/
+# and logs under *.manifest / *.spec
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ----------------------------------------
+# VIRTUAL ENVIRONMENTS
+# ----------------------------------------
+venv/
+env/
+ENV/
+.venv/
+.python-version
+
+# ----------------------------------------
+# JUPYTER NOTEBOOK
+# ----------------------------------------
+.ipynb_checkpoints/
+
+# ----------------------------------------
+# VS CODE & EDITOR CONFIG FILES
+# ----------------------------------------
+.vscode/
+.code-workspace
+
+# JetBrains (PyCharm, etc.)
+.idea/
+
+# ----------------------------------------
+# OS / SYSTEM FILES
+# ----------------------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------------------
+# LOG FILES
+# ----------------------------------------
+*.log
+
+# ----------------------------------------
+# TEST / COVERAGE
+# ----------------------------------------
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache/
+
+# ----------------------------------------
+# OTHER
+# ----------------------------------------
+*.sqlite3
